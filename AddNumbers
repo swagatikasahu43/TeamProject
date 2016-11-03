@@ -1,8 +1,9 @@
-//A Simple Java Program to Add Two Numbers.
+//A Simple Java Program to Add Two Numbers. 
 
 
 
 class AddTwoNumbers        // Declaration of class
+{
 {
    public static void main(String args[]) //Main Function
    {
@@ -12,4 +13,5 @@ class AddTwoNumbers        // Declaration of class
       z = x + y;        //Expression to Add two variables x, y and save the result to z
       System.out.println("Sum of x and y = "+z); //This line output the value of z on the Screen
    }
+}
 }
