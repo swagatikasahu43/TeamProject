@@ -2,7 +2,7 @@
 
 
 
-class AddTwoNumbers        // Declaration of class
+class AddTwoNumbers        // *******Declaration of class
 {
 {
    public static void main(String args[]) //Main Function
