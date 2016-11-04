@@ -4,7 +4,7 @@ class group{
 public static void main(String ang[]){
 Scanner data= new Scanner(System.in);
 int num1, num2, result;
-// Read 1st number
+// *******Read 1st number
 System.out.println("Enter 1st number");
 num1=data.nextInt();
 // Read 2nd number
