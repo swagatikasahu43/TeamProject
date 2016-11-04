@@ -9,7 +9,7 @@ class AddTwoNumbers        // Declaration of class
    {
       int x, y, z;      // Variable Declaration
       x = 20;           //Assigning 10 to the variable x.
-      y = 20;           //Assigning 20 to the variable y.
+      y = 40;           //Assigning 20 to the variable y.
       z = x + y;        //Expression to Add two variables x, y and save the result to z
       System.out.println("Sum of x and y = "+z); //This line output the value of z on the Screen
    }
